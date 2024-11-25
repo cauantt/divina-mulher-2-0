@@ -5,7 +5,7 @@ import Link from "next/link";
 function Content6() {
 
   return (
-    <div className="h-[1100px] flex w-full bg-gradient-to-b from-[#720000] to-[#330F0F] justify-center items-center pt-16">
+    <div className="h-[1220px] flex w-full bg-gradient-to-b from-[#720000] to-[#330F0F] justify-center items-center pt-16">
       <div className="w-[1100px] h-full flex flex-col gap-10 items-center justify-center text-white text-center">
         <p className="text-2xl smm:text-xl font-semibold">O QUE VOCÊ VAI TER ACESSO</p>
 
@@ -39,9 +39,9 @@ function Content6() {
             </div>
           </Link>
 
-          <hr className="w-11/12 bg-white text-white mt-10"></hr>
+          <hr className="w-11/12 bg-white text-white mt-5"></hr>
 
-          <div className="flex gap-10 smm:gap-5 w-full justify-center items-center text-center h-full">
+          <div className="flex gap-10 smm:gap-5 w-full justify-center items-center text-center ">
             <img src="../images/logo.png" className="w-2/12" alt="Rosa" />
             <div className="flex flex-col text-center justify-center items-center">
               <p className="smm:text-xs">Copyright Anieli Talon - All rights reserved</p>
